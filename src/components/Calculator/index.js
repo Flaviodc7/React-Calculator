@@ -34,7 +34,6 @@ export default function Calculator() {
 		}
 		setCurrent("");
 		setOperation(el.target.getAttribute("data"));
-		console.log(current);
 	};
 
 	const equals = () => {
