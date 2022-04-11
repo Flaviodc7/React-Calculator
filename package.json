@@ -1,4 +1,4 @@
- {
+{
   "name": "react-calculator",
   "version": "0.1.0",
   "private": true,
@@ -37,7 +37,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
     "eslint-plugin-react": "^7.29.4"
   }
 }
